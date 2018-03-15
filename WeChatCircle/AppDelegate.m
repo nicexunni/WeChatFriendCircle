@@ -7,8 +7,6 @@
 //
 
 #import "AppDelegate.h"
-#import "LZTabBarControllerConfig.h"
-#import <CYLTabBarController.h>
 
 @interface AppDelegate ()
 
@@ -19,14 +17,6 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
-    self.window = [[UIWindow alloc]init];
-    self.window.frame = [UIScreen mainScreen].bounds;
-    LZTabBarControllerConfig *tabBarControllerConfig = [[LZTabBarControllerConfig alloc] init];
-    CYLTabBarController *tabBarController = tabBarControllerConfig.tabBarController;
-    [self.window setRootViewController:tabBarController];
-    
-    tabBarController.delegate = self;
-    [self.window makeKeyAndVisible];
     return YES;
 }
 

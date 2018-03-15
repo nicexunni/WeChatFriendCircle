@@ -10,13 +10,9 @@
 		254334A2D82124B37459DD23 /* libPods-WeChatCircle.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D11BCC375F6C8D4AD2D19B15 /* libPods-WeChatCircle.a */; };
 		A70C010C205A3E80005F4E6B /* LZCreatCircleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A70C010A205A3E80005F4E6B /* LZCreatCircleViewController.m */; };
 		A70C010D205A3E80005F4E6B /* LZCreatCircleViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A70C010B205A3E80005F4E6B /* LZCreatCircleViewController.xib */; };
-		A7192D00205A15E700C0B240 /* LZTabBarControllerConfig.m in Sources */ = {isa = PBXBuildFile; fileRef = A7192CFF205A15E700C0B240 /* LZTabBarControllerConfig.m */; };
 		A7192D04205A16C000C0B240 /* LZHomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A7192D02205A16C000C0B240 /* LZHomeViewController.m */; };
-		A7192D05205A16C000C0B240 /* LZHomeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A7192D03205A16C000C0B240 /* LZHomeViewController.xib */; };
 		A7192D09205A16DD00C0B240 /* LZAboutViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A7192D07205A16DD00C0B240 /* LZAboutViewController.m */; };
-		A7192D0A205A16DD00C0B240 /* LZAboutViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A7192D08205A16DD00C0B240 /* LZAboutViewController.xib */; };
 		A7192D0E205A170600C0B240 /* LZInfoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A7192D0C205A170600C0B240 /* LZInfoViewController.m */; };
-		A7192D0F205A170600C0B240 /* LZInfoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A7192D0D205A170600C0B240 /* LZInfoViewController.xib */; };
 		A780519B2059442500A3A36B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A780519A2059442500A3A36B /* AppDelegate.m */; };
 		A78051A42059442500A3A36B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A78051A22059442500A3A36B /* Main.storyboard */; };
 		A78051A62059442500A3A36B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A78051A52059442500A3A36B /* Assets.xcassets */; };
@@ -30,17 +26,12 @@
 		A70C0109205A3E80005F4E6B /* LZCreatCircleViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LZCreatCircleViewController.h; sourceTree = "<group>"; };
 		A70C010A205A3E80005F4E6B /* LZCreatCircleViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LZCreatCircleViewController.m; sourceTree = "<group>"; };
 		A70C010B205A3E80005F4E6B /* LZCreatCircleViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LZCreatCircleViewController.xib; sourceTree = "<group>"; };
-		A7192CFE205A15E700C0B240 /* LZTabBarControllerConfig.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LZTabBarControllerConfig.h; sourceTree = "<group>"; };
-		A7192CFF205A15E700C0B240 /* LZTabBarControllerConfig.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LZTabBarControllerConfig.m; sourceTree = "<group>"; };
 		A7192D01205A16C000C0B240 /* LZHomeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LZHomeViewController.h; sourceTree = "<group>"; };
 		A7192D02205A16C000C0B240 /* LZHomeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LZHomeViewController.m; sourceTree = "<group>"; };
-		A7192D03205A16C000C0B240 /* LZHomeViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LZHomeViewController.xib; sourceTree = "<group>"; };
 		A7192D06205A16DD00C0B240 /* LZAboutViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LZAboutViewController.h; sourceTree = "<group>"; };
 		A7192D07205A16DD00C0B240 /* LZAboutViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LZAboutViewController.m; sourceTree = "<group>"; };
-		A7192D08205A16DD00C0B240 /* LZAboutViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LZAboutViewController.xib; sourceTree = "<group>"; };
 		A7192D0B205A170600C0B240 /* LZInfoViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LZInfoViewController.h; sourceTree = "<group>"; };
 		A7192D0C205A170600C0B240 /* LZInfoViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LZInfoViewController.m; sourceTree = "<group>"; };
-		A7192D0D205A170600C0B240 /* LZInfoViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LZInfoViewController.xib; sourceTree = "<group>"; };
 		A78051962059442500A3A36B /* WeChatCircle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeChatCircle.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A78051992059442500A3A36B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		A780519A2059442500A3A36B /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -94,17 +85,12 @@
 		A7192CFD205A15AB00C0B240 /* NavigationTabbar */ = {
 			isa = PBXGroup;
 			children = (
-				A7192CFE205A15E700C0B240 /* LZTabBarControllerConfig.h */,
-				A7192CFF205A15E700C0B240 /* LZTabBarControllerConfig.m */,
 				A7192D01205A16C000C0B240 /* LZHomeViewController.h */,
 				A7192D02205A16C000C0B240 /* LZHomeViewController.m */,
-				A7192D03205A16C000C0B240 /* LZHomeViewController.xib */,
 				A7192D06205A16DD00C0B240 /* LZAboutViewController.h */,
 				A7192D07205A16DD00C0B240 /* LZAboutViewController.m */,
-				A7192D08205A16DD00C0B240 /* LZAboutViewController.xib */,
 				A7192D0B205A170600C0B240 /* LZInfoViewController.h */,
 				A7192D0C205A170600C0B240 /* LZInfoViewController.m */,
-				A7192D0D205A170600C0B240 /* LZInfoViewController.xib */,
 			);
 			path = NavigationTabbar;
 			sourceTree = "<group>";
@@ -205,12 +191,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				A70C010D205A3E80005F4E6B /* LZCreatCircleViewController.xib in Resources */,
-				A7192D0F205A170600C0B240 /* LZInfoViewController.xib in Resources */,
 				A78051A92059442500A3A36B /* LaunchScreen.storyboard in Resources */,
-				A7192D0A205A16DD00C0B240 /* LZAboutViewController.xib in Resources */,
 				A78051A62059442500A3A36B /* Assets.xcassets in Resources */,
 				A78051A42059442500A3A36B /* Main.storyboard in Resources */,
-				A7192D05205A16C000C0B240 /* LZHomeViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -285,7 +268,6 @@
 				A780519B2059442500A3A36B /* AppDelegate.m in Sources */,
 				A78051AC2059442500A3A36B /* main.m in Sources */,
 				A7192D09205A16DD00C0B240 /* LZAboutViewController.m in Sources */,
-				A7192D00205A15E700C0B240 /* LZTabBarControllerConfig.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -359,7 +341,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -408,7 +390,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
