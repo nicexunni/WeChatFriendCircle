@@ -14,13 +14,59 @@ PODS:
   - AFNetworking/Serialization (3.2.0)
   - AFNetworking/UIKit (3.2.0):
     - AFNetworking/NSURLSession
+  - CYLTabBarController (1.17.6)
+  - DACircularProgress (2.3.1)
+  - FMDB (2.7.2):
+    - FMDB/standard (= 2.7.2)
+  - FMDB/standard (2.7.2)
+  - IDMPhotoBrowser (1.11.3):
+    - DACircularProgress
+    - pop
+    - SDWebImage (= 4.0.0)
+  - JFImagePicker (1.0.0)
+  - JRDB (2.1.1):
+    - FMDB
+  - LCProgressHUD (1.0.8):
+    - MBProgressHUD (~> 0.9.2)
+  - Masonry (1.1.0)
+  - MBProgressHUD (0.9.2)
+  - MMPopupView (1.7.2):
+    - Masonry
+  - pop (1.0.10)
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
 
 DEPENDENCIES:
   - AFNetworking (~> 3.0)
+  - CYLTabBarController (~> 1.17.4)
+  - IDMPhotoBrowser
+  - JFImagePicker
+  - JRDB
+  - LCProgressHUD
+  - Masonry
+  - MMPopupView
+  - YYKit
 
 SPEC CHECKSUMS:
   AFNetworking: 8ac6017b94ea105479f7776e5288e48ae9c59bb4
+  CYLTabBarController: c374643dea6dadece8bdff9c70f7387f8ffd7d08
+  DACircularProgress: 4dd437c0fc3da5161cb289e07ac449493d41db71
+  FMDB: 6198a90e7b6900cfc046e6bc0ef6ebb7be9236aa
+  IDMPhotoBrowser: b96159fe4adb991a844068eb17dab9c0b7d7e51a
+  JFImagePicker: 2914c69dac80767a98664e768ac50118664e9f04
+  JRDB: a938c2f425189fe1f50e8df4b39454db3fee9c7c
+  LCProgressHUD: c79809d917bf9cc1cd1cdfc4d91a44c8dbfa5692
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  MMPopupView: fe1dd010824029dfb632fdf1a531db5dd5386020
+  pop: 82ca6b068ce9278fd350fd9dd09482a0ce9492e6
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
 
-PODFILE CHECKSUM: 46de22bf7b21e8c9ec3dc69947e8551adb37e738
+PODFILE CHECKSUM: e9f99a3ec2ba7d5acc8f1c95aadcd5d3039f8ac4
 
 COCOAPODS: 1.4.0
